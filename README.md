@@ -7,6 +7,7 @@ Identifying the time series of data error during the model calibration
 3) By adjusting their orders, a new sequence of output data errors is obtained.
 
 % REFERENCE:
+
 Wu, X., Marshall, L., Sharma, A., 2022. Incorporating multiple observational uncertainties in water quality model calibration. Hydrological Processes 36, e14452. https://doi.org/10.1002/hyp.14452
 
 Wu, X., Marshall, L., Sharma, A., 2021. Quantifying input error in hydrologic modeling using the Bayesian error analysis with reordering (BEAR) approach. Journal of Hydrology 598, 126202. https://doi.org/10.1016/j.jhydrol.2021.126202
