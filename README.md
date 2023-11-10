@@ -1,2 +1,2 @@
 # BEAR
-Identifying the observational errors in the model calibration
+Identifying the time series of data error during the model calibration
